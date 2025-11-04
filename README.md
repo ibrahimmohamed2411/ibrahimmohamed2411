@@ -91,6 +91,10 @@
   <img src="https://github-profile-trophy.vercel.app?username=ibrahimmohamed2411&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+- 💬 Ask me about **architecting complex Flutter apps, managing app performance, and improving development workflows.**
+
+- ⚡ Fun fact **I enjoy solving complex Flutter challenges more than drinking my morning coffee ☕**
+
 ###
 
 <picture>
